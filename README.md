@@ -1,5 +1,12 @@
 # Clustering Assignment - 102103142
 
+
+## Submitted By
+
+**Name:** Divyam Malik  
+**Student ID:** 102103142  
+**Class:** 3CO5
+
 ## Overview
 
 This project aims to implement various clustering algorithms using different pre-processing techniques and evaluate them on different parameters. The dataset used for this project is the Iris Dataset.
@@ -41,10 +48,4 @@ The performance of the clustering algorithms is evaluated based on the following
 - Calinski-Harabasz Score
 - Davies-Bouldin Score
 
-
-## Submitted By
-
-**Name:** Divyam Malik  
-**Student ID:** 102103142  
-**Class:** 3CO5
 
